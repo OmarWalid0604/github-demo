@@ -13,3 +13,4 @@ A tiny demo repository for a static web page used in class exercises.
 Open `index.html` directly in your browser (double-click the file) for a quick preview.
 
 ## Jira
+integration
